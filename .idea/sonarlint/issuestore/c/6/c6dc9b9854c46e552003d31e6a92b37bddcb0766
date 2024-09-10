@@ -1,3 +1,19 @@
 
-W
-java:S2094"BRemove this empty class, write its code or make it an "interface".(˜İù
+r	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªé–âûÿÿÿÿ8Œ©ÚÜ2
+m	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á²«8©ÚÜ2
+m	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰”ìİ8©ÚÜ2
+m	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èşºÒ8©ÚÜ2
+p	java:S116"URename this field "start_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ı³W8—©ÚÜ2
+t	java:S116"SRename this field "end_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¸Ç¢ÿÿÿÿÿ8—©ÚÜ2
+q	java:S116 "URename this field "created_At" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â›Ü’8—©ÚÜ2
+v	java:S116#"URename this field "updated_At" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Î¢ùÿÿÿÿ8—©ÚÜ2
+
+java:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬ô›8—©ÚÜ2
+i	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôš½C8 ©ÚÜ2
+o	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªé–âûÿÿÿÿ8 ©ÚÜ2
+o	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìñ…´ıÿÿÿÿ8 ©ÚÜ2
+j	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á²«8¡©ÚÜ2
+o	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¨¾şÿÿÿÿ8¡©ÚÜ2
+j	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰”ìİ8¢©ÚÜ2
+j	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Æ·—8¢©ÚÜ2
+j	java:S100n"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èşºÒ8¢©ÚÜ2
